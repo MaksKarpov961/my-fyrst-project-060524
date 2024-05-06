@@ -1,2 +1,3 @@
-# my-fyrst-project-060524
-My project on the YouTube channel is a freelancer for life
+# my-fyrst-project
+
+my-fyrst-project Solo on YouTube Работа по флексам
